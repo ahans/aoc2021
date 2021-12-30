@@ -1,4 +1,4 @@
-# Build
+## Build
 
 ```
 mkdir build
@@ -7,7 +7,7 @@ cmake .. && make -j5
 cd ..
 ```
 
-# Run
+## Run
 ```
 build/main
 ```
